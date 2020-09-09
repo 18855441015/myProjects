@@ -14,8 +14,8 @@ spring:
       discovery:
         server-addr: localhost:8848
   redis:
-    host: 47.98.152.214
-    port: 9736
+    host: 47.14.25.895
+    port: 6379
     database: 1
     timeout: 5000
     lettuce:
